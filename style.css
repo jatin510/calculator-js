@@ -1,0 +1,60 @@
+.container {
+  width: 400px;
+  height: 400px;
+  border: 2px solid black;
+  padding: 3px;
+  background-color: grey;
+}
+
+.row {
+  display: flex;
+  background-color: white;
+}
+
+textarea {
+  width: 400px;
+}
+
+.button {
+  position: relative;
+  width: 100px;
+  height: 55px;
+  text-align: center;
+  border: 2px solid black;
+  cursor: pointer;
+  margin: 2px;
+}
+
+.operation {
+  background-color: red;
+}
+.container {
+  width: 400px;
+  height: 400px;
+  border: 2px solid black;
+  padding: 10px;
+  background-color: grey;
+}
+
+.row {
+  display: flex;
+  background-color: white;
+}
+
+textarea {
+  width: 400px;
+}
+
+.button {
+  position: relative;
+  width: 100px;
+  height: 55px;
+  text-align: center;
+  border: 1px solid black;
+  cursor: pointer;
+  margin: 2px;
+}
+
+.operation {
+  background-color: red;
+}
